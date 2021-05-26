@@ -1,7 +1,7 @@
 # Review 5 - Functions
-` `
+
 NOTE! Pay close attention to creating code with good and consistent code style.
-` `
+
 1. Write a normal function that takes in two numbers and *returns* the sum of those numbers.
 2. Write a normal function that takes in a string and *returns* that string capitalized.
 3. Write a normal function that takes in an array and *returns* the last item in that array.
