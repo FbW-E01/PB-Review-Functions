@@ -14,7 +14,7 @@ NOTE! Pay close attention to creating code with good and consistent code style.
 10. Write and test a function that takes in two parameters (min and max). That function should return another function that doesn't take in any parameters, but returns a random number between min and max. Effectively your "outer" function is a factory that creates customized random number generator functions.
 11. In your own words, explain what are side effects and what is a pure function.
 12. In your own words, explain what is the difference between functions and methods.
-` `
+
 
 ` `
 
